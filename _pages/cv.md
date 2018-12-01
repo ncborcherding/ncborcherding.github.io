@@ -15,12 +15,6 @@ Education
 * M.S. in Pathology, University of Iowa, 2014
 * Ph.D. in Cancer Biology, University of Iowa, 2020 (expected)
 * M.D. at the University of Iowa, 2020 (expected)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Invited Presentations
 ======
