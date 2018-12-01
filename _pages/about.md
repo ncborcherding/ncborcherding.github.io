@@ -13,7 +13,7 @@ I am in the Medical Scientist Training Program (MSTP) at the University of Iowa.
 Publications
 ----
 
-List of my publications are available at [Google Scholar.](https://scholar.google.com/citations?user=_n4TRuIAAAAJ&hl=en)
+List of my publications are available at [Google Scholar](https://scholar.google.com/citations?user=_n4TRuIAAAAJ&hl=en).
 
 Contact Me
 ----
