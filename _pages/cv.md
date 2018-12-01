@@ -46,20 +46,20 @@ National or Regional Abstracts
 Funding
 =====
 
-* *2017* NIH F30 CA206255 (PI), The role of paracrine WNT5A/RYK in ErbB2-driven tumorigenesis. $151,150
-* *2017* Oberley Seed Grant for Experiment Therapeutics (co-PI), Targeting mismatch repair for immunotherapy in basal-like breast cancer. $20,000
-* *2015* American Medical Association Foundation Research Seed Grant (PI), Paracrine non-canonical Wnt signaling in breast cancer. $4,895
+* *2017-* NIH F30 CA206255 (PI), The role of paracrine WNT5A/RYK in ErbB2-driven tumorigenesis. $151,150
+* *2017-* Oberley Seed Grant for Experiment Therapeutics (co-PI), Targeting mismatch repair for immunotherapy in basal-like breast cancer. $20,000
+* *2015-* American Medical Association Foundation Research Seed Grant (PI), Paracrine non-canonical Wnt signaling in breast cancer. $4,895
 
 Awards and Recognitions
 ======
-* *2018* Graduate Research Excellence Award in Biological Sciences Finalist, University of Iowa
-* *2018* Hancher-Finkbine Medallion, University of Iowa
-* *2017* Richard G. Lynch, MD Award for Pathology, University of Iowa
-* *2015* Distinguished Thesis Award, Midwestern Association of Graduate Schools
-* *2015* L.B. Sims Outstanding Master's Thesis Award in Biological Sciences, University of Iowa
-* *2015* Richard G. Lynch, MD Award for Pathology, University of Iowa
-* *2014* Richard G. Lynch, MD Award for Pathology, University of Iowa
-* *2012* University Graduation Marshall, Iowa State University
-* *2012* Graduate *Summa Cum Laude*, Iowa State University
-* *2012* Departmental Scholarly Achievement Award, Iowa State University
-* *2005* Eagle Scout Award, Boy Scouts of America
+* *2018-* Graduate Research Excellence Award in Biological Sciences Finalist, University of Iowa
+* *2018-* Hancher-Finkbine Medallion, University of Iowa
+* *2017-* Richard G. Lynch, MD Award for Pathology, University of Iowa
+* *2015-* Distinguished Thesis Award, Midwestern Association of Graduate Schools
+* *2015-* L.B. Sims Outstanding Master's Thesis Award in Biological Sciences, University of Iowa
+* *2015-* Richard G. Lynch, MD Award for Pathology, University of Iowa
+* *2014-* Richard G. Lynch, MD Award for Pathology, University of Iowa
+* *2012-* University Graduation Marshall, Iowa State University
+* *2012-* Graduate *Summa Cum Laude*, Iowa State University
+* *2012-* Departmental Scholarly Achievement Award, Iowa State University
+* *2005-* Eagle Scout Award, Boy Scouts of America
