@@ -1,6 +1,6 @@
 ---
 title: "TRGAted"
-excerpt: "Prognostic Calculator using Protein-Level TCGA Data 1<br/><img src='/images/TRGAted.png'>"
+excerpt: "Prognostic calculator using protein-level TCGA data across 31 cancer types.<br/><img src='/images/TRGAted.png'>"
 collection: portfolio
 ---
 
