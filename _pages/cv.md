@@ -40,9 +40,9 @@ National or Regional Abstracts
 Funding
 =====
 
-* *2017-* NIH F30 CA206255 (PI), The role of paracrine WNT5A/RYK in ErbB2-driven tumorigenesis. $151,150
-* *2017-* Oberley Seed Grant for Experiment Therapeutics (co-PI), Targeting mismatch repair for immunotherapy in basal-like breast cancer. $20,000
-* *2015-* American Medical Association Foundation Research Seed Grant (PI), Paracrine non-canonical Wnt signaling in breast cancer. $4,895
+* *2017-* NIH F30 CA206255 (PI), The role of paracrine WNT5A/RYK in ErbB2-driven tumorigenesis. **$151,150**
+* *2017-* Oberley Seed Grant for Experiment Therapeutics (co-PI), Targeting mismatch repair for immunotherapy in basal-like breast cancer. **$20,000**
+* *2015-* American Medical Association Foundation Research Seed Grant (PI), Paracrine non-canonical Wnt signaling in breast cancer. **$4,895**
 
 Awards and Recognitions
 ======
