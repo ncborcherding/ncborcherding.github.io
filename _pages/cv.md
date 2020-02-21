@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+My full CV can be <a href="/files/Borcherding_CV.pdf" download>downloaded here.</a>
 
 Education
 ======
