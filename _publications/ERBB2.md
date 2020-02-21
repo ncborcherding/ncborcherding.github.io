@@ -1,8 +1,9 @@
 ---
-title: "Paracrine WNT5A signaling inhibits expansion of tumor-initiating cells."
+title: "Transcriptome analysis of basal and luminal tumor-initiating cells in ErbB2-driven breast cancer"
 collection: publications
-permalink: /publication/WNT5A
+permalink: /publication/ERBB2
 venue: 'Genomic Data'
+date: 2015/6/1
 citation: '<b> Borcherding, N.</b>, Bormann, N., Kusner, D., Kolb R., & Zhang, W. Transcriptome analysis of basal and luminal tumor-initiating cells in ErbB2-driven breast cancer. Genomic Data 2015.'
 ---
 
