@@ -20,13 +20,15 @@ Education
   
 Invited Presentations
 ======
+* Single-cell profiling of cutaneous T-cell lymphoma reveals underlying heterogeneity associated with disease progression. (May 2019). Presented at the Society for Investigative Dermatology Annual Meeting in Chicago, Illinois.
 * Transcriptional Heterogeneity in cancer-associated regulatory T cells is predictive of survival. Presented at the Single-Cell RNA sequencing Symposium by the Iowa Institute of Genetics, Iowa City, Iowa.
 * Paracrine Regulation of Breast Cancer Tumorigenesis. (2016, April). Presented at the Midwestern Association of Graduate Schools Annual Conference in Chicago, Illinois. 
 
   
 National or Regional Abstracts
 ======
-
+*   **Borcherding, N.**, Crotts, S., Ortolan, L., Bormann, N., & Jabbari, A. (2020, May). Single-cell mRNA sequencing of murine and human alopecia areata identifies immune cell profiles predictive of human disease state. Presented at the Academy of Clinical Laboratory Physicians and Scientists Annual Meeting in Iowa City, IA.
+*	**Borcherding, N.**, Voigt, A., Liu, V., Link, B.K., Zhang, W., & Jabbari, A. (2019, May) Single-cell profiling of cutaneous T-cell lymphoma reveals underlying heterogeneity associated with disease progression. Presented at the Society for Investigative Dermatology Annual Meeting in Chicago, Il.
 *	**Borcherding, N.**, Bormann, N., Zhang, W. (2018, January). Using data analytics to predict and improve cancer immunotherapy response. Presented at the American Physician Scientist Association Midwest Regional Meeting in Iowa City, IA. 
 * **Borcherding, N.**, Jo, S., Zhang, W. (2017, October). Targeting mismatch repair for basal-like breast cancer. Presented at the Cancer Biology Training Consortium Annual Meeting in Portland, OR. 
 *	Feagle, T., **Borcherding, N**., Hoffmann, D. Students Prefer 3D Anatomy Videos for Prelab Preparation Compared to Traditional Resources and Usage is Related to Class Performance. Presented at the annual Experimental Biology Conference in Chicago, IL. 
@@ -42,20 +44,21 @@ National or Regional Abstracts
 Funding
 =====
 
-* *2017-* NIH F30 CA206255 (PI), The role of paracrine WNT5A/RYK in ErbB2-driven tumorigenesis. **$151,150**
-* *2017-* Oberley Seed Grant for Experiment Therapeutics (co-PI), Targeting mismatch repair for immunotherapy in basal-like breast cancer. **$20,000**
-* *2015-* American Medical Association Foundation Research Seed Grant (PI), Paracrine non-canonical Wnt signaling in breast cancer. **$4,895**
+* *2017-Current* NIH F30 CA206255 (PI), The role of paracrine WNT5A/RYK in ErbB2-driven tumorigenesis. **$151,150**
+* *2017-18* Oberley Seed Grant for Experiment Therapeutics (co-PI), Targeting mismatch repair for immunotherapy in basal-like breast cancer. **$20,000**
+* *2015-16* American Medical Association Foundation Research Seed Grant (PI), Paracrine non-canonical Wnt signaling in breast cancer. **$4,895**
 
 Awards and Recognitions
 ======
-* *2018-* Graduate Research Excellence Award in Biological Sciences Finalist, University of Iowa
-* *2018-* Hancher-Finkbine Medallion, University of Iowa
-* *2017-* Richard G. Lynch, MD Award for Pathology, University of Iowa
-* *2015-* Distinguished Thesis Award, Midwestern Association of Graduate Schools
-* *2015-* L.B. Sims Outstanding Master's Thesis Award in Biological Sciences, University of Iowa
-* *2015-* Richard G. Lynch, MD Award for Pathology, University of Iowa
-* *2014-* Richard G. Lynch, MD Award for Pathology, University of Iowa
-* *2012-* University Graduation Marshall, Iowa State University
-* *2012-* Graduate *Summa Cum Laude*, Iowa State University
-* *2012-* Departmental Scholarly Achievement Award, Iowa State University
-* *2005-* Eagle Scout Award, Boy Scouts of America
+* *2019* Alpha Omega Alpha Honor Medical Society Induction
+* *2018* Graduate Research Excellence Award in Biological Sciences Finalist, University of Iowa
+* *2018* Hancher-Finkbine Medallion, University of Iowa
+* *2017* Richard G. Lynch, MD Award for Pathology, University of Iowa
+* *2015* Distinguished Thesis Award, Midwestern Association of Graduate Schools
+* *2015* L.B. Sims Outstanding Master's Thesis Award in Biological Sciences, University of Iowa
+* *2015* Richard G. Lynch, MD Award for Pathology, University of Iowa
+* *2014* Richard G. Lynch, MD Award for Pathology, University of Iowa
+* *2012* University Graduation Marshall, Iowa State University
+* *2012* Graduate *Summa Cum Laude*, Iowa State University
+* *2012* Departmental Scholarly Achievement Award, Iowa State University
+* *2005* Eagle Scout Award, Boy Scouts of America
