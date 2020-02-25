@@ -2,7 +2,7 @@
 title: "Obesity-associated inflammation promotes angiogenesis and breast cancer via angiopoietin-like 4"
 collection: publications
 permalink: /publication/ANGPTL4
-venue: 'Tumor Microenvironment'
+venue: 'Oncogene'
 date: 2018/12/05
 citation: 'Kolb, R., Kluz, P., Wei, T.Z., <b>Borcherding, N.</b>, Bormann, N., Balcziak, L., Zhu, P., Davies, B., Gourronc, F., Gibson-Corley, K. Klingelhutz, A., Tan, N.S., Sutterwala, F., Vishwakarma, A., Liu, L., Ge, X., Jiang, B., Zhu, Y., Shen, X., & Zhang, W. Obesity-associated inflammation promotes angiogenesis and breast cancer via angiopoietin-like 4. Oncogene 2019.'
 ---
