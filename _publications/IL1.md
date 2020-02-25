@@ -1,5 +1,5 @@
 ---
-title: "IL-1 Signaling in Tumor Microenvironment"
+title: "IL-1 Signaling in Tumor Microenvironment."
 collection: publications
 permalink: /publication/IL1
 venue: 'Tumor Microenvironment'
