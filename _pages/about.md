@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am in the Medical Scientist Training Program (MSTP) at the University of Iowa. I have just completed my graduate work in Cancer Bioloy with [Weizhou Zhang](https://zhanglab.pathology.ufl.edu/) with a dissertation entitled, <a href="/files/Borcherding_Dissertation.pdf" download> "Big Data Analystics and Cancer Biology: Lessons in taking science from the processor to the patient."</a> My research interests lie in connecting data science and medicine, specifically in the field of cancer immunology. Over the course of my graduate work, I have gotten the opportunity to work on projects in the Zhang lab and a number of different labs to organize, process, and analyze transcriptomic and large-scale data. Medically, I am interested in development of processing frameworks for applications in the field of Pathology.
+I am a PGY-1 Resident in Clinical Pathology and member of the Physician Scientist Training Program in the Department of Pathology and Immunology at Washington University in St. Louis. 
+
+<b> Prior Training: </b> I received a MD, PhD (2020) and MS (2014) at the University of Iowa. I completed my graduate work in Cancer Biology with [Weizhou Zhang](https://zhanglab.pathology.ufl.edu/) with a dissertation entitled, <a href="/files/Borcherding_Dissertation.pdf" download> "Big Data Analytics and Cancer Biology: Lessons in taking science from the processor to the patient."</a> Previous work included a M.S. thesis on Noncanonical Wnt Signaling in breast cancer (see [publication](https://cancerres.aacrjournals.org/content/75/10/1972.short)) and undergraduate research in diabetic nephropathy (see [publication](https://academic.oup.com/jn/article/143/7/1123/4637659)).
+
+<b> Research Interests: </b> My primary interest lies in connecting data science and medicine, specifically in the field of cancer immunology. During my graduate work and in the intervening period before residency, I have been extensively involved in using single-cell RNA-seq to assess immune cell populations in tumor immunity, auto-immunity and lymphoma. I have crafted several pieces of software to this end, both [scRepertoire](https://github.com/ncborcherding/scRepertoire) for immune receptor profiling and [escape](https://github.com/ncborcherding/escape) for gene set enrichment analysis in single-cell data. Medically, I am interested in development of processing frameworks for applications in the field of Pathology.
 
 Contact Me
 ----
