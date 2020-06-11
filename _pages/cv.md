@@ -27,7 +27,11 @@ Invited Presentations
   
 National or Regional Abstracts
 ======
-*   **Borcherding, N.**, Crotts, S., Ortolan, L., Bormann, N., & Jabbari, A. (2020, May). Single-cell mRNA sequencing of murine and human alopecia areata identifies immune cell profiles predictive of human disease state. Presented at the Academy of Clinical Laboratory Physicians and Scientists Annual Meeting in Iowa City, IA.
+
+*   **Borcherding, N.**, Crotts, S., Ortolan, L., Bormann, N., & Jabbari, A. (2020, May). Single-cell mRNA sequencing of murine and human alopecia areata identifies immune cell profiles predictive of human disease state. Presented at the Academy of Clinical Laboratory Physicians and Scientists Annual Meeting in Iowa City, IA (Canceled due to COVID-19).
+•	Renavikar, P., Sinha, S., Brate, A., Crawford, M., **Borcherding, N.**, Steward, S. & Karandikar, N. (2020, May). Immune suppressive deficit in human Tc1 cells secondary to IL-12-induced pathways. Presented at the Academy of Clinical Laboratory Physicians and Scientists Annual Meeting in Iowa City, IA (Canceled due to COVID-19).
+•	Hoffmann, D., Feagle, T., & **Borcherding, N.** (2020, April). Virtual Anatomy Videos for Pre-Lab Preparation: Does Usage Correlate with Grade Outcomes. Accepted to Experimental Biology Annual Meeting in San Diego, CA. (Canceled due to COVID-19).
+•	Cole, K., Councilman, K., Zhang, W., & **Borcherding N.** (2020, March). WNT/β-Catenin Signaling Correlates with Improved Survival in Luminal A Breast Cancer. Presented at the USCAP Annual Meeting in Los Angeles, CA.
 *	**Borcherding, N.**, Voigt, A., Liu, V., Link, B.K., Zhang, W., & Jabbari, A. (2019, May) Single-cell profiling of cutaneous T-cell lymphoma reveals underlying heterogeneity associated with disease progression. Presented at the Society for Investigative Dermatology Annual Meeting in Chicago, Il.
 *	**Borcherding, N.**, Bormann, N., Zhang, W. (2018, January). Using data analytics to predict and improve cancer immunotherapy response. Presented at the American Physician Scientist Association Midwest Regional Meeting in Iowa City, IA. 
 * **Borcherding, N.**, Jo, S., Zhang, W. (2017, October). Targeting mismatch repair for basal-like breast cancer. Presented at the Cancer Biology Training Consortium Annual Meeting in Portland, OR. 
@@ -44,12 +48,13 @@ National or Regional Abstracts
 Funding
 =====
 
-* *2017-Current* NIH F30 CA206255 (PI), The role of paracrine WNT5A/RYK in ErbB2-driven tumorigenesis. **$151,150**
+* *2017-20* NIH F30 CA206255 (PI), The role of paracrine WNT5A/RYK in ErbB2-driven tumorigenesis. **$151,150**
 * *2017-18* Oberley Seed Grant for Experiment Therapeutics (co-PI), Targeting mismatch repair for immunotherapy in basal-like breast cancer. **$20,000**
 * *2015-16* American Medical Association Foundation Research Seed Grant (PI), Paracrine non-canonical Wnt signaling in breast cancer. **$4,895**
 
 Awards and Recognitions
 ======
+* *2020* Special Achievement in Pathology, Iowa Pathology Society
 * *2019* Alpha Omega Alpha Honor Medical Society Induction
 * *2018* Graduate Research Excellence Award in Biological Sciences Finalist, University of Iowa
 * *2018* Hancher-Finkbine Medallion, University of Iowa
