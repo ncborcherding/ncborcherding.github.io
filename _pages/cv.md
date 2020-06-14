@@ -54,6 +54,7 @@ Funding
 
 Awards and Recognitions
 ======
+* *2020* William L. Roberts Young Investigator Award with Distinction, Academy of Clinical and Laboratory Physicians and Scientists
 * *2020* Special Achievement in Pathology, Iowa Pathology Society
 * *2019* Alpha Omega Alpha Honor Medical Society Induction
 * *2018* Graduate Research Excellence Award in Biological Sciences Finalist, University of Iowa
