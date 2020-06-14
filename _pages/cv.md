@@ -15,8 +15,8 @@ Education
 ======
 * B.S. in Nutritional Science, Iowa State University, 2012
 * M.S. in Pathology, University of Iowa, 2014
-* Ph.D. in Cancer Biology, University of Iowa, 2020 (expected)
-* M.D. at the University of Iowa, 2020 (expected)
+* Ph.D. in Cancer Biology, University of Iowa, 2020 
+* M.D. at the University of Iowa, 2020 
   
 Invited Presentations
 ======
