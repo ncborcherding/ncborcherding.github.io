@@ -20,7 +20,9 @@ Education
   
 Invited Presentations
 ======
-* Single-cell profiling of cutaneous T-cell lymphoma reveals underlying heterogeneity associated with disease progression. (May 2019). Presented at the Society for Investigative Dermatology Annual Meeting in Chicago, Illinois.
+
+* Single-cell mRNA sequencing of murine and human alopecia areata identifies immune cell profiles predictive of human disease state. (2020, June). Virtually presented at the Academy of Clinical Laboratory Physicians and Scientists Annual Meeting in Iowa City, IA 
+* Single-cell profiling of cutaneous T-cell lymphoma reveals underlying heterogeneity associated with disease progression. (2019, May). Presented at the Society for Investigative Dermatology Annual Meeting in Chicago, Illinois.
 * Transcriptional Heterogeneity in cancer-associated regulatory T cells is predictive of survival. Presented at the Single-Cell RNA sequencing Symposium by the Iowa Institute of Genetics, Iowa City, Iowa.
 * Paracrine Regulation of Breast Cancer Tumorigenesis. (2016, April). Presented at the Midwestern Association of Graduate Schools Annual Conference in Chicago, Illinois. 
 
@@ -28,8 +30,8 @@ Invited Presentations
 National or Regional Abstracts
 ======
 
-*   **Borcherding, N.**, Crotts, S., Ortolan, L., Bormann, N., & Jabbari, A. (2020, May). Single-cell mRNA sequencing of murine and human alopecia areata identifies immune cell profiles predictive of human disease state. Presented at the Academy of Clinical Laboratory Physicians and Scientists Annual Meeting in Iowa City, IA (Canceled due to COVID-19).
-•	Renavikar, P., Sinha, S., Brate, A., Crawford, M., **Borcherding, N.**, Steward, S. & Karandikar, N. (2020, May). Immune suppressive deficit in human Tc1 cells secondary to IL-12-induced pathways. Presented at the Academy of Clinical Laboratory Physicians and Scientists Annual Meeting in Iowa City, IA (Canceled due to COVID-19).
+*   **Borcherding, N.**, Crotts, S., Ortolan, L., Bormann, N., & Jabbari, A. (2020, June). Single-cell mRNA sequencing of murine and human alopecia areata identifies immune cell profiles predictive of human disease state. Presented at the Academy of Clinical Laboratory Physicians and Scientists Annual Meeting in Iowa City, IA 
+•	Renavikar, P., Sinha, S., Brate, A., Crawford, M., **Borcherding, N.**, Steward, S. & Karandikar, N. (2020, May). Immune suppressive deficit in human Tc1 cells secondary to IL-12-induced pathways. Presented at the Academy of Clinical Laboratory Physicians and Scientists Annual Meeting in Iowa City, IA 
 •	Hoffmann, D., Feagle, T., & **Borcherding, N.** (2020, April). Virtual Anatomy Videos for Pre-Lab Preparation: Does Usage Correlate with Grade Outcomes. Accepted to Experimental Biology Annual Meeting in San Diego, CA. (Canceled due to COVID-19).
 •	Cole, K., Councilman, K., Zhang, W., & **Borcherding N.** (2020, March). WNT/β-Catenin Signaling Correlates with Improved Survival in Luminal A Breast Cancer. Presented at the USCAP Annual Meeting in Los Angeles, CA.
 *	**Borcherding, N.**, Voigt, A., Liu, V., Link, B.K., Zhang, W., & Jabbari, A. (2019, May) Single-cell profiling of cutaneous T-cell lymphoma reveals underlying heterogeneity associated with disease progression. Presented at the Society for Investigative Dermatology Annual Meeting in Chicago, Il.
