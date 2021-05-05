@@ -3,7 +3,7 @@ title: "Re-Evaluating E-Cadherin and β-Catenin: A Pan-Cancer Proteomic Approach
 collection: publications
 permalink: /publication/CTNNB1
 venue: 'The American Journal of Pathology'
-date: 2018/8/1
+date: 2018/08/01
 citation: '<b>Borcherding, N.</b>, Cole, K., Kluz, P., Pandey, G., Jorgensen, M., Kolb, R., Bellizzi, A., & Zhang, W. Reevaluating E-Cadherin and β-Catenin: A pan-cancer proteomic approach with emphasis on breast cancer. American Journal of Pathology 2018.'
 ---
 

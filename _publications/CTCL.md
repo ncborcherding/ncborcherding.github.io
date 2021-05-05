@@ -3,7 +3,7 @@ title: "Single-Cell Profiling of Cutaneous T-Cell Lymphoma Reveals Underlying He
 collection: publications
 permalink: /publication/CTCL
 venue: 'Clinical Cancer Research'
-date: 2019/5/15
+date: 2019/05/15
 citation: '<b>Borcherding, N.</b>, Voigt, A., Liu, V., Link, B.K., Zhang, W., & Jabbari, A. Single-cell profiling of cutaneous T-cell lymphoma reveals underlying heterogeneity associated with disease progression. Clinical Cancer Research 2019.'
 ---
 

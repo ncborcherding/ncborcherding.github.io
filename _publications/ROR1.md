@@ -3,7 +3,7 @@ title: "ROR1, an embryonic protein with an emerging role in cancer biology."
 collection: publications
 permalink: /publication/ROR1
 venue: 'Protein & Cell'
-date: 2014/7/1
+date: 2014/07/01
 citation: "<b>Borcherding, N.</b>, Kusner, D., Liu, G. H., & Zhang, W. ROR1, an embryonic protein with an emerging role in cancer biology. Protein Cell 2014. " 
 ---
 

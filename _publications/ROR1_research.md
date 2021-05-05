@@ -3,7 +3,7 @@ title: "ROR1 Potentiates FGFR Signaling in Basal-Like Breast Cancer."
 collection: publications
 permalink: /publication/ROR1_research
 venue: 'Cancers'
-date: 2019/5/24
+date: 2019/05/24
 citation: 'Pandey, G., <b>Borcherding, N.</b>, Kolb, R., Kluz, P., Li, W., Sugg, S., Zhang, J., Lai, D., & Zhang W. ROR1 potentiates FGFR signaling in basal-like breast cancer. Cancers 2019.'
 ---
 

@@ -3,7 +3,7 @@ title: "Coactivation of NF-κB and Notch signaling is sufficient to induce B-cel
 collection: publications
 permalink: /publication/NOTCH
 venue: 'Blood'
-date: 2020/1/9
+date: 2020/01/09
 citation: 'Xiu, Y., Qianze Dong, Q., Fu, L., Bossler, A., Tang, X., Boyce, B., <b>Borcherding, N.</b>, Byrd, J., Leidinger, M., Sardina, J.L., Xue, H., Li, Q., Feldman, A., Aifantis, I., Boccalatte, F., Khoury, J., Wang, W., Hu, S., Yuan, Y., Wang, E., Yuan, J., Colgan, J., Habelhah, H., Waldschmidt, T., Muschen, M., & Zhao, C. Concurrent activation of NF-κB and Notch signaling is sufficient to induce B cell transformation and enables B-myeloid conversion. Blood 2020.'
 ---
 

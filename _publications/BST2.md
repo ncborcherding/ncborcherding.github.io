@@ -3,7 +3,7 @@ title: "Bone Marrow Stromal Antigen 2 (BST-2) DNA Is Demethylated in Breast Tumo
 collection: publications
 permalink: /publication/BST2
 venue: 'PLoS ONE'
-date: 2015/4/10
+date: 2015/04/10
 citation: 'Mahauad-Fernandez, W.D., <b> Borcherding, N. C. </b>, Zhang, W., & Okeoma, C.M. Bone Marrow Stromal Antigen 2 (BST-2) DNA Is Demethylated in Breast Tumors and Breast Cancer Cells. PLoS One 2015.'
 ---
 

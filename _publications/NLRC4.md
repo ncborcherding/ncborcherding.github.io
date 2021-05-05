@@ -3,7 +3,7 @@ title: "Obesity-associated NLRC4 inflammasome activation drives breast cancer pr
 collection: publications
 permalink: /publication/NLRC4
 venue: 'Nature Communications'
-date: 2016/10/6
+date: 2016/10/06
 citation: 'Kolb, R., Phan L., <b> Borcherding, N.</b>, Liu, Y., Yuan, F., Janowski, A.M., Xie, Q., Markan, K.R., Li, W., Potthoff, M.J., Fuentes-Mattei, E., Knudsen, M., Lee, M., Yeung, S., Cassel, S., Sutterwala, F., & Zhang, W. Obesity-associated NLRC4 inflammasome activation drives breast cancer progression. Nature Communications 2016.'
 ---
 

@@ -3,7 +3,7 @@ title: "Content Evaluation, Usage Profile, and Student Preferences Related to a 
 collection: publications
 permalink: /publication/carverpedia
 venue: 'Medical Science Educator'
-date: 2017/3/1
+date: 2017/03/01
 citation: '<b>Borcherding, N.</b>, Rudolph, M., Tierney, A., Vyn, & R., Hoffmann. Content evaluation, usage profile and student preferences related to a medical student wiki for student-authored learning resources. Medical Science Educator 2017.'
 ---
 

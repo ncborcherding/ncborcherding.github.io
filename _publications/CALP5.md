@@ -3,7 +3,7 @@ title: "Calpain-5 Expression in the Retina Localizes to Photoreceptor Synapses."
 collection: publications
 permalink: /publication/CALP5
 venue: 'Investigative Ophthalmology and Visual Science'
-date: 2016/5/1
+date: 2016/05/01
 citation: 'Schaefer, K., Toral, M., Velez, G., Cox, A., Baker, S., <b> Borcherding, N. </b>, Colgan, D., Bondada, V., Mashburn, C., Yu, C., Geddes, J., Tsang, S., Bassuk, A., & Mahajan, V. Calpain-5 expression in the retina localizes to photoreceptor synapses. Investigative Ophthalmology and Visual Science 2016.'
 ---
 

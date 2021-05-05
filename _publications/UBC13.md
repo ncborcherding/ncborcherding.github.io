@@ -3,7 +3,7 @@ title: "Ubiquitin-conjugating enzyme Ubc13 controls breast cancer metastasis thr
 collection: publications
 permalink: /publication/UBC13
 venue: 'PNAS'
-date: 2014/9/23
+date: 2014/09/023
 citation: "Wu, X., Zhang, W., Font-Burgada, J., Palmer, T., Hamil, A. S., Biswas, S. K., Poidinger, M., <b> Borcherding, N.</b>, Xie, Q., Ellies, L. G., Ltyle, N. K., Wu, L. W., Fox, R. G., Yang, J., Dowdy, S. F., Reya, T., & Karin, M. Ubiquitin-conjugating enzyme Ubc13 controls breast cancer metastasis through a TAK1-p38 MAP kinase cascade. Proceedings of the National Academy of Science 2014." 
 ---
 

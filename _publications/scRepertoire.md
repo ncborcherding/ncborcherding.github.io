@@ -3,7 +3,7 @@ title: "scRepertoire: An R-based toolkit for single-cell immune receptor analysi
 collection: publications
 permalink: /publication/scRepertoire
 venue: 'F1000Research'
-date: 2020/1/27
+date: 2020/01/27
 citation: '<b>Borcherding, N.</b> & Bormann, N. scRepertoire: A R-based toolkit for single-cell immune receptor analysis. F1000Research 2020.'
 ---
 

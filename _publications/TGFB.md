@@ -3,7 +3,7 @@ title: "Identification of novel TGF-β regulated genes with pro-migratory roles.
 collection: publications
 permalink: /publication/TGFB
 venue: 'Molecular Basis of Disease'
-date: 2019/12/1
+date: 2019/12/01
 citation: 'Liu, Q., <b>Borcherding, N.</b>, Shao, P., Cao, H., Zhang, W., & Qi, H. Novel effectors mediating the pro-migratory role of TGF-beta signaling. Molecular Basis of Disease 2019.'
 ---
 

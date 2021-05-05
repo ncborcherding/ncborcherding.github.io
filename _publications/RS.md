@@ -3,7 +3,7 @@ title: "Dietary resistant starch prevents urinary excretion of 25-hydroxycholeca
 collection: publications
 permalink: /publication/NIK-IKKA
 venue: 'Journal of Nutrition'
-date: 2013/7/1
+date: 2013/07/01
 citation: "Smazal, A. L., <b>Borcherding, N. C.</b>, Anderegg, A. S., Schalinske, K. L., Whitley, E. M., & Rowling, M. J. (2013). Dietary resistant starch prevents urinary excretion of 25-hydroxycholecalciferol and vitamin D-binding protein in type 1 diabetic rats. Journal of Nutrition 2013." 
 ---
 

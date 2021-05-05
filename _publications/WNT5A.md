@@ -3,7 +3,7 @@ title: "Paracrine WNT5A signaling inhibits expansion of tumor-initiating cells."
 collection: publications
 permalink: /publication/WNT5A
 venue: 'Cancer Research'
-date: 2015/5/15
+date: 2015/05/15
 citation: '<b> Borcherding, N.</b>, Kusner, D., Kolb, R., Xie, Q., Li, W., Yuan, F., Velez, G., Askeland, R., Weigel, R.J., & Zhang, W. Paracrine WNT5A Signaling Inhibits Expansion of Tumor-Initiating Cells. Cancer Research 2015.'
 ---
 

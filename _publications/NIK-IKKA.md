@@ -3,7 +3,7 @@ title: "A NIK-IKKα Module Expands ErbB2-Induced Tumor-Initiating Cells by Stimu
 collection: publications
 permalink: /publication/NIK-IKKA
 venue: 'Cancer Cell'
-date: 2013/5/13
+date: 2013/05/13
 citation: 'Zhang, W., Tan, W., Wu, X., Poustovoitov, M., Strasner, A., Li, W., <b> Borcherding, N. </b>, Ghassemian, M., & Karin, M. A NIK-IKKalpha module expands ErbB2-induced tumor-initiating cells by stimulating nuclear export of p27/Kip1. Cancer Cell 2013.'
 ---
 

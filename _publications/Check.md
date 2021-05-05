@@ -3,7 +3,7 @@ title: "Keeping Tumors in Check: A Mechanistic Review of Clinical Response and R
 collection: publications
 permalink: /publication/Check
 venue: 'Journal of Molecular Biology'
-date: 2018/7/6
+date: 2018/07/06
 citation: '<b> Borcherding, N.</b>, Kolb, R., Gullicksrud, J., Vikas, P. Zhu, Y., & Zhang, W. Keeping tumors in check: A mechanistic review of clinical response and resistance to immune checkpoint blockade in cancer. Journal of Molecular Biology 2018.'
 ---
 

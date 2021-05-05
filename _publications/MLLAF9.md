@@ -3,7 +3,7 @@ title: "Stabilization of NF-κB-inducing kinase suppresses MLL-AF9-induced acute
 collection: publications
 permalink: /publication/MLLAF9
 venue: 'Cell Reports'
-date: 2018/1/9
+date: 2018/01/09
 citation: 'Xiu, Y., Li, Q., Li, F., Boyce, B., <b>Borcherding, N.</b>, Xue, X., & Zhao, C. Stabilization of NF-kB-inducing kinase suppresses MLL-AF9–induced acute myeloid leukemia. Cell Reports 2018.'
 ---
 

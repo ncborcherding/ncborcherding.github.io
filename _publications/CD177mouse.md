@@ -3,7 +3,7 @@ title: "Characterization of a novel mouse model with genetic deletion of CD177."
 collection: publications
 permalink: /publication/CD177mouse
 venue: 'PLoS ONE'
-date: 2015/2/1
+date: 2015/02/01
 citation: 'Xie, Q., Klesney-Tait, J., Keck, K., Parlet, C., <b> Borcherding, N. </b>, Kolb, R., Li, W., Tygrett, L., Waldschmidt, T., Olivier, A., Chen, S., Liu, G. H., Li, X., &  Zhang, W. Characterization of a novel mouse model with genetic deletion of CD177. Protein & Cell 2015.'
 ---
 

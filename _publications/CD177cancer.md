@@ -3,7 +3,7 @@ title: "Cancer cell-intrinsic function of CD177 in attenuating β-catenin signal
 collection: publications
 permalink: /publication/CD177cancer
 venue: 'Oncogene'
-date: 2020/2/10
+date: 2020/02/10
 citation: 'Kluz, P.N., Kolb, R., Xie, Q., <b>Borcherding, N.</b>, Liu, Q., Wang, L., Zhang, Y., Li, W., Stipp, C., Gibson-Corley, K.N., Zhao, C., Qi, H.H., Bellizzi, A., Tao, A.W., Sugg, S., Weigel, R.J., Shen, X., Zhang, W. Cancer cell-intrinsic function of CD177 in attenuating β-Catenin signaling. Oncogene 2020.'
 ---
 

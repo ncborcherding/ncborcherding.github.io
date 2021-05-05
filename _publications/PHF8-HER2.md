@@ -3,8 +3,8 @@ title: "Contribution of synergism between PHF8 and HER2 signalling to breast can
 collection: publications
 permalink: /publication/PFH8-HER2
 venue: 'EBioMedicine'
-date: 2020/1/1
-citation: 'Liu, Q., <b>Borcherding, N.</b>, Shao, P., Maina, P., Zhang, W., & Qi, H. Contribution of synergism between PHF8 and HER2 signaling to breast cancer development and drug resistance. EBioMedicine 2019.'
+date: 2020/01/01
+citation: 'Liu, Q., <b>Borcherding, N.</b>, Shao, P., Maina, P., Zhang, W., & Qi, H. Contribution of synergism between PHF8 and HER2 signaling to breast cancer development and drug resistance. EBioMedicine 2020.'
 ---
 
 Background

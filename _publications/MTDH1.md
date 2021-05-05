@@ -3,7 +3,7 @@ title: "Metadherin enhances vulnerability of cancer cells to ferroptosis."
 collection: publications
 permalink: /publication/MTDH1
 venue: 'Cell Death and Disease'
-date: 2019/9/17
+date: 2019/09/17
 citation: 'Bi, J., Yang, S., Li, L., Dai, Q., <b>Borcherding, N.</b>, Wagner, B.A., Buettner, G.R., Spitz, D.R., Leslie, K.K., Zhang, J., & Meng, X. Metadherin (MTDH) Enhances Vulnerability of Cancer Cells to Ferroptosis. Cell Death and Disease 2019.'
 ---
 
